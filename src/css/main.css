@@ -1,6 +1,8 @@
 /* FONTS */
-#app .benton-ital {
-	font-family: BentonSansCond-RegItalic;
+#app .benton-bold_ital {
+	display: block;
+	font-family: BentonSansCond-BoldItalic;
+	margin-top: 7px;
 }
 
 /* COLOURS */
@@ -44,7 +46,7 @@
 	top: 0;
 }
 .scrollyteller .step-list {
-	pointer-events: none;
+	/*pointer-events: none;*/
 	position: relative;
 }
 .scrollyteller .step {
