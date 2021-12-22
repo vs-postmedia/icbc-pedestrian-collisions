@@ -3,6 +3,7 @@
 	display: block;
 	font-family: BentonSansCond-BoldItalic;
 	margin-top: 7px;
+	text-align: center;
 }
 
 /* COLOURS */
@@ -23,7 +24,7 @@
 /* APP & CHART WRAPPER */
 #app {
 	margin: 0 auto;
-	max-width: 550px;
+	max-width: 750px;
 }
 .wrapper {
 	/*display: flex;*/
@@ -39,7 +40,7 @@
 .scrollyteller .sticky {
 	color: white;
 	height: 500px;
-	text-align: center;
+	/*text-align: center;*/
 	width: 100%;
 	position: -webkit-sticky;
 	position: sticky;
@@ -52,7 +53,7 @@
 .scrollyteller .step {
 	margin: 100vh auto;
 	max-width: 400px;
-	text-align: center;
+	/*text-align: center;*/
 }
 .scrollyteller .step:first-of-type {
 	margin-top: -25%;
